@@ -5,8 +5,7 @@
 <h1>A little more about me...<h1>   
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
-  <span> I have completed my B.tech from JNTUK I love what I do and I aspire to create designs and experiences that can help solve problems and communicate both in anesthetic and functional sense. I am looking forward to work, learn on developing applications. A Passioniate towards learning, designing minimalistic UI/UX, Photography, travelling and Love sharing my knowledge , insights of learning with others through Blogging. Some of the technologies I enjoy working with include Java, NodeJS, Angular, flutter, ionic, spring boot, selenium other JS frameworks and UI/UX samples with prototyping using Adobe XD.
-  </span> 
+  I have completed my B.tech from JNTUK I love what I do and I aspire to create designs and experiences that can help solve problems and communicate both in anesthetic and functional sense. I am looking forward to work, learn on developing applications. A Passioniate towards learning, designing minimalistic UI/UX, Photography, travelling and Love sharing my knowledge , insights of learning with others through Blogging. Some of the technologies I enjoy working with include Java, NodeJS, Angular, flutter, ionic, spring boot, selenium other JS frameworks and UI/UX samples with prototyping using Adobe XD. 
 </p>
 <h3  align='center'>📬 Find me around the web 🌎 </h3>
 <p align='center'>
