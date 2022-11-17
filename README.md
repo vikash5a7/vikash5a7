@@ -1,6 +1,6 @@
 <h2 align='center'> नमस्ते 🙏 🙋🏻‍♂️ Hi over there, I'm <a href="https://facebook.com/vikashraj.aryaray">vikash kumar</a>🧑🏻‍💻</h2>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.mphasis.com/">Mphasis</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://www.yatra.com/">Yatra</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <h1>A little more about me...<h1>   
 <p align="center">
